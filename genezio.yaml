@@ -12,7 +12,7 @@ backend:
     # The name of the programming language.
     name: python
     # The package manager used by the backend.
-    packageManager: npm
+    packageManager: pip
   # Information about the backend's functions.
   functions:
     # The name (label) of the function.
